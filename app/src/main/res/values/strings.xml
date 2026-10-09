@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">huanglina2024110111</string>
+    <!-- 区1：动态添加TextView -->
+    <string name="btn_add">Add TextView</string>
+    <string name="default_added_text">Hello,World!</string>
+
+    <!-- 区2：参考老师视频的 MVC 交互区 -->
+    <string name="btn_confirm">确定</string>
+    <string name="result_prefix">对应语言：</string>
+    <string-array name="list">
+        <item>快速</item>
+        <item>容易</item>
+        <item>新语言</item>
+        <item>面向对象</item>
+    </string-array>
+</resources>
